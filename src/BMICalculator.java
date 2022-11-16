@@ -1,6 +1,6 @@
 /**
  * Prompts user for height and weight
- * prints the BMI
+ * Prints the BMI
  */
 
 import java.text.DecimalFormat;
