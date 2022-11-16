@@ -1,10 +1,12 @@
-/**
- * Prompts user for height and weight
- * Prints the BMI
- */
+
 
 import java.text.DecimalFormat;
 import java.util.Scanner;
+/**
+ * Coverts and calculates user's BMI based on height and weight
+ * @version 22.11.16
+ * @author Amelia Kazcarmyk
+ */
 public class BMICalculator {
     /** Convert English to Metric units, perform the BMI calculation
      * NOTE: this method must properly handle bad data
